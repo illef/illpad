@@ -1,0 +1,25 @@
+.editor-container {
+    border: 1px solid #D7D8D9;
+    padding: 0px;
+    padding-left: 10px;
+}
+
+.editor-text-view {
+    min-height: 50px;
+    font-family: "Noto Serif, Iropke Batang";
+    font-size: 16px;
+    border: none;
+    line-height: 1.5; /* Adjust the numerical value as needed */
+}
+
+.editor-normal-text-view {
+    background-color: #FFE5D5; /* Orange pastel tone */
+}
+
+.editor-focused-text-view {
+    background-color: white;
+}
+
+.status-label {
+    background-color: #FFB74D; /* A vibrant orange tone */
+}
